@@ -1,0 +1,2 @@
+*.dat.fits.gz filter=lfs diff=lfs merge=lfs -text
+*.ran.fits.gz filter=lfs diff=lfs merge=lfs -text
