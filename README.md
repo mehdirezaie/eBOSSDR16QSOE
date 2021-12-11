@@ -1,7 +1,7 @@
 # eBOSSDR16QSOE
 eBOSS DR16 Quasar sample with enhanced systematic weights
 
-This repository will host the data presented in [Rezaie et al. MNRAS (2021)](https://arxiv.org/abs/2106.13724), and it will be made public soon upon the acceptance of the paper and its companion papers. Here are the measured monopole of the eBOSS DR16 Quasars in the NGC and SGC with 0.8<z<2.2 relative to the LCDM Universe with $`f_{NL}=0`$. The errorbars are estimated from 1000 synthetic catalogs:
+This repository will host the data presented in [Rezaie et al. MNRAS (2021)](https://arxiv.org/abs/2106.13724). Here are the measured monopole of the eBOSS DR16 Quasars in the NGC and SGC with 0.8<z<2.2 relative to the LCDM Universe with $`f_{NL}=0`$. The errorbars are estimated from 1000 synthetic catalogs:
 <p align="center">
   <img src="https://github.com/mehdirezaie/eBOSSDR16QSOE/blob/main/spectra/dp0_NGC.png" width="300" title="">
   <img src="https://github.com/mehdirezaie/eBOSSDR16QSOE/blob/main/spectra/dp0_SGC.png" width="300" title="">
